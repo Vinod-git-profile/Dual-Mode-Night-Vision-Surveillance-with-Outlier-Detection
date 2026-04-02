@@ -180,7 +180,7 @@ http://localhost:5173
 
 ---
 
-## 15. Conclusion
+## 14. Conclusion
 
 The project successfully demonstrates the integration of machine learning and computer vision techniques for building an intelligent surveillance system. It provides real-time monitoring, anomaly detection, and efficient visualization through a dashboard, making it a practical solution for modern security systems.
 The project successfully demonstrates the integration of machine learning and computer vision techniques for building an intelligent surveillance system. It provides real-time monitoring, anomaly detection, and efficient visualization through a dashboard, making it a practical solution for modern security systems.
